@@ -1,1 +1,3 @@
 # DPK-Bloble
+
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('1l.7y=t(){1l.2t=3B};1l.7z=t(){1l.2t=1I};1J("3h",t(a){v(1l.2t===1I&&a.1K==46){v(n.s!==0){2V.1a(\'7A\',n[0].1s)}}});1J("3h",t(a){v(1l.2t===1I&&a.1K==16){v(n.s==4&&n.s!==0){w 2j=4T();w 1x=[];1x.1m({x:2j[0],y:2j[1],3C:1I});1x.1m({x:2j[0]+41,y:2j[1]+41,3C:1I});1x.1m({x:2j[0]+41,y:2j[1],3C:1I});1x.1m({x:2j[0],y:2j[1]+41,3C:1I});D(o=0,e=n;o<e.s;++o){w 42=7B;D(i=0,e=1x;i<1x.s;++i){w d=G.1o(e[i].x,e[i].y,n[o].x,n[o].y);v(i!==4)
